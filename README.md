@@ -3,7 +3,7 @@ Contact Tracing - Israel
 
 **HAMAGEN** - developed in a joint effort by developers from the Ministry of Health, commercial companies, and volunteers from various organizations and the developer community in Israel.
 
-It relies only on GPS/Location by locally matching with areas/paths of infected users provided by the Ministry of Health. 
+It relies only on GPS/Location by locally matching areas/paths of infected users (provided by the Ministry of Health). 
 
 User's locations & paths are stored locally in the device. Only those of confirmed infected users are uploaded to the server. App allows also to import location history related to Google account.
 
