@@ -8,6 +8,7 @@ It relies only on GPS/Location by locally matching with areas/paths of infected 
 User's locations & paths are stored locally in the device. Only those of confirmed infected users are uploaded to the server. App allows also to import location history related to Google account.
 
 Play Store | https://play.google.com/store/apps/details?id=com.hamagen
+-----------|----------------------------------------------------------
 Sources | https://github.com/MohGovIL
 Website | https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/
 
